@@ -69,7 +69,7 @@ These are the components outlined in levi's site. All levi's components support 
 | Register | Ask for user details |
 | Login | Use user Details to login thier account  |
 
-![alt text](https://raw.githubusercontent.com/Ajaykvishwakarma/levi-s.in/main/landing.png)
+![alt text](https://raw.githubusercontent.com/Ajaykvishwakarma/levi-s.in/main/login.png)
 ---
 
 ### Checkout page
