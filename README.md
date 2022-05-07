@@ -140,4 +140,4 @@ These are the components outlined in levi's site. All levi's components support 
 
 ### Over_All 
 
-That is so funny! :joy:
+That was so funny! :joy:
